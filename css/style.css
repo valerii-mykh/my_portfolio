@@ -266,6 +266,7 @@ ul {
 .container .work .work_block:hover .hover_block .view {
   text-transform: capitalize;
   font-size: 26px;
+  color: orangered;
 }
 .container .my-skills {
   display: -webkit-box;
